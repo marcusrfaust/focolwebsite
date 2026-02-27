@@ -204,10 +204,10 @@ Oportunidades de melhoria:
 - [ ] Setup da infraestrutura básica (Next.js + GitHub Pages)
   - Configuração inicial do repositório Git
   - Inicialização do projeto Next.js
-  - Configuração do workflow de GitHub Actions para deploy automático
-  - Setup básico de rotas e estrutura de pastas
+  - [x] Configuração do workflow de GitHub Actions para deploy automático
+  - [x] Setup básico de rotas e estrutura de pastas
 - [ ] MVP (Minimum Viable Product) - Prioridade Alta
-  - Desenvolvimento da landing page com design básico
+  - [ ] Desenvolvimento da landing page com design básico
   - Implementação de componentes essenciais (navbar, hero, features, footer)
   - Configuração básica de responsividade
   - Deploy da versão MVP para GitHub Pages
@@ -300,4 +300,4 @@ Oportunidades de melhoria:
 
 ---
 
-*Este documento foi atualizado em 07/05/2025, refletindo a nova abordagem incremental com MVP e MLP para o projeto de redesign do site da Focol.*
+*Este documento foi atualizado em 07/05/2025 as 15:58, refletindo a nova abordagem incremental com MVP e MLP para o projeto de redesign do site da Focol.*
