@@ -1,4 +1,4 @@
-# Features Page Content - Focol (English)
+# Features Page Content - Focol ([English](/projects/English/README.md))
 
 ## Page Title
 

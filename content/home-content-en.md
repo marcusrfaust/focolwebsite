@@ -1,4 +1,4 @@
-# Homepage Content - Focol (English)
+# Homepage Content - Focol ([English](/projects/English/README.md))
 
 ## Hero Section
 

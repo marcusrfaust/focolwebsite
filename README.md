@@ -151,7 +151,7 @@ Oportunidades de melhoria:
 ### 5. Recomendações Técnicas
 
 #### Framework de Desenvolvimento:
-- Next.js para benefícios de performance e SEO (configurar para exportação estática para GitHub Pages, se necessário)
+- Next.js para benefícios de performance e SEO (configurar para exportação estática para GitHub [Pages](/projects/Pages/README.md), se necessário)
 - React para arquitetura baseada em componentes
 - Framer Motion para animações premium
 
@@ -201,7 +201,7 @@ Oportunidades de melhoria:
 - [x] Aprovação final do conteúdo
 
 ### Fase 4: Desenvolvimento
-- [ ] Setup da infraestrutura básica (Next.js + GitHub Pages)
+- [ ] Setup da infraestrutura básica (Next.js + GitHub [Pages](/projects/Pages/README.md))
   - Configuração inicial do repositório Git
   - Inicialização do projeto Next.js
   - [x] Configuração do workflow de GitHub Actions para deploy automático
@@ -210,7 +210,7 @@ Oportunidades de melhoria:
   - [ ] Desenvolvimento da landing page com design básico
   - Implementação de componentes essenciais (navbar, hero, features, footer)
   - Configuração básica de responsividade
-  - Deploy da versão MVP para GitHub Pages
+  - Deploy da versão MVP para GitHub [Pages](/projects/Pages/README.md)
 - [ ] MLP (Minimum Lovable Product) - Prioridade Média
   - Refinamento visual da landing page
   - Adição de animações básicas
@@ -236,7 +236,7 @@ Oportunidades de melhoria:
   - Fase 1: MVP para validação interna e feedback inicial
   - Fase 2: MLP para clientes selecionados e validação de UX
   - Fase 3: Lançamento completo com todas as funcionalidades
-- [ ] Configuração final do repositório e CI/CD para GitHub Pages
+- [ ] Configuração final do repositório e CI/CD para GitHub [Pages](/projects/Pages/README.md)
   - Workflow otimizado de GitHub Actions
   - Cache adequado para assets estáticos
   - Configuração de domínio personalizado
@@ -264,7 +264,7 @@ Oportunidades de melhoria:
 ### Imediato (1-2 semanas)
 1. Setup da infraestrutura básica com Next.js
 2. Desenvolvimento e deploy do MVP com página inicial e informações essenciais
-3. Configuração do workflow de GitHub Pages para deploy automático
+3. Configuração do workflow de GitHub [Pages](/projects/Pages/README.md) para deploy automático
 
 ### Curto Prazo (3-4 semanas)
 1. Evolução para MLP com melhorias visuais e páginas essenciais
@@ -291,10 +291,10 @@ Oportunidades de melhoria:
    - Configuração do projeto Next.js
    - Setup do workflow de GitHub Actions para deploy automático
 5. Desenvolvimento do MVP (Próximos 7 dias)
-   - Landing page básica com informações essenciais
+   - [Landing](/projects/Landing/README.md) page básica com informações essenciais
    - Componentes fundamentais (navbar, hero, features, footer)
    - Estilo básico seguindo o guia visual
-6. Primeiro deploy no GitHub Pages (Fim da próxima semana)
+6. Primeiro deploy no GitHub [Pages](/projects/Pages/README.md) (Fim da próxima semana)
    - Configuração do domínio personalizado (se disponível)
    - Validação técnica e ajustes iniciais
 
