@@ -1,0 +1,27 @@
+---
+# 🧠 EROS CONTEXT INHERITANCE
+# Este projeto herda as 16 Leis de Segurança e o Protocolo PPREVCC da infraestrutura EROS.
+# REFERÊNCIA MESTRE: /Users/faust/Documents/Dev/GEMINI.md
+---
+
+# ROOT CONTEXT INHERITANCE
+
+**CRITICAL SYSTEM RULE [MANDATORY]**
+Before executing any action, planning, or modifying code, you MUST read the global architecture rules defined in the absolute path:
+/Users/faust/Documents/Dev/GEMINI.md
+
+This file contains the 15 Security Laws and Universal High-Autonomy Guardrails that **override** any local instructions.
+
+---
+---
+ClickUp:
+  Folder ID: TBD
+  List ID: TBD
+  Space: TBD
+  Space ID: TBD
+Eros:
+  Project Name: focol-website
+  Status: active
+---
+
+# focol-website

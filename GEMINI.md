@@ -1,0 +1,1 @@
+/Users/faust/Documents/Dev/GEMINI.md
